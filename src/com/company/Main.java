@@ -12,5 +12,6 @@ public class Main {
         System.out.println("Thank you");
         System.out.println("I'll say goodbye to");
         System.out.println("Tho its the end of the world");
+        System.out.println("Lyrics: goodbye to a world, by porter Robinson");
     }
 }
